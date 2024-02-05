@@ -24,12 +24,12 @@
 ## Results
 
 * Machine Learning Model 1:Logistic regression with original data
-              precision    recall  f1-score   support
+*             precision    recall  f1-score   support
 
            0       1.00      0.99      1.00     18765
            1       0.85      0.91      0.88       619
 
-    accuracy                           0.99     19384
+     accuracy                          0.99     19384
    macro avg       0.92      0.95      0.94     19384
 weighted avg       0.99      0.99      0.99     19384
 
@@ -40,7 +40,7 @@ The model performs moderately well to classify the class 1 (high-risk loan) labe
 
 
 * Machine Learning Model 2:Logistic regression with resampled data
-                  precision    recall  f1-score   support
+*                 precision    recall  f1-score   support
 
            0       1.00      0.99      1.00     18765
            1       0.84      0.99      0.91       619
