@@ -61,6 +61,8 @@ The performance of this model is same as that for model with original data for 0
 
 ## Summary
 
-The new model increased precision to 0.84, recall to 0.99, and F1 to 0.91 for the high-risk loans. The gap in performance metrics between the classes has now reduced substantially.
-The performance of this model is same as that for model with original data for 0 (healthy loan).
+The new model increased precision to 0.84, recall to 0.99, and F1 to 0.91 for the high-risk loans. The gap in performance metrics between the classes has now reduced substantially. The performance of this model is same as that for model with original data for 0 (healthy loan). 
+
+It is better to use the Machine Learning Model 2 : logistic regression with sampled data as it is trained with balanced resampled data ensuring that the model is not biased.
+
 
